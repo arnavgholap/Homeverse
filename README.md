@@ -1,5 +1,3 @@
-### Homeversre
-
 <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Homeverse - Real estate website</h2>
