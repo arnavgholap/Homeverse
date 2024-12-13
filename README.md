@@ -4,7 +4,7 @@
 
   Homeverse is fully responsive real estate website, <br />responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://arnavgholap.github.io/Homeverse/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
